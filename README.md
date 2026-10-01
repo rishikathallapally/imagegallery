@@ -128,6 +128,7 @@ More gallery categories
 Rishika
 
 ```
+
 ## 🌐 Live Demo
 
 [View Live Image Gallery](https://rishikathallapally.github.io/image-gallery/)
