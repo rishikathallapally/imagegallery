@@ -131,4 +131,4 @@ Rishika
 
 ## 🌐 Live Demo
 
-[View Live Image Gallery](https://rishikathallapally.github.io/codealpha_imagegallery/)
+[View Live Image Gallery](https://rishikathallapally.github.io/imagegallery/)
